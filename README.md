@@ -1,16 +1,16 @@
-# 📊 Cryptocurrency Clustering Analysis using K-Means
+# Cryptocurrency Clustering Analysis using K-Means
 
 This project explores the impact of using fewer features to cluster cryptocurrency data using the K-Means algorithm. The clustering was performed using both the original feature set and a reduced feature set (via PCA or manual selection), followed by visual analysis and comparison of the results.
 
 ---
 
-## 🔍 Objective
+## Objective
 
 To evaluate how reducing the number of features affects the performance and visual clarity of clusters generated through K-Means clustering.
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 The dataset contains various time-based percentage price changes for multiple cryptocurrencies, including:
 
@@ -24,7 +24,7 @@ The dataset contains various time-based percentage price changes for multiple cr
 
 ---
 
-## 📈 1. Elbow Curve Comparison
+## 1. Elbow Curve Comparison
 
 **Elbow Curve 1 (Original Data):**
 - Built using all 7 original time-based features.
@@ -42,7 +42,7 @@ The dataset contains various time-based percentage price changes for multiple cr
 
 ---
 
-## 🎯 2. Cluster Scatter Plot Comparison
+## 2. Cluster Scatter Plot Comparison
 
 **Cluster Graph 1 (Original Data):**
 - Clusters appear **overlapping**, with no distinct boundaries.
@@ -60,7 +60,7 @@ The dataset contains various time-based percentage price changes for multiple cr
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 Using fewer features (via dimensionality reduction or careful selection) for K-Means clustering of cryptocurrency data results in:
 
@@ -68,7 +68,7 @@ Using fewer features (via dimensionality reduction or careful selection) for K-M
 - Improved **visual clarity** and **interpretability**.
 - Reduced **noise and redundancy**, allowing for better algorithm performance.
 
-📌 **Fewer, more informative features = more meaningful clustering results.**
+ **Fewer, more informative features = more meaningful clustering results.**
 
 ---
 
@@ -80,7 +80,7 @@ Using fewer features (via dimensionality reduction or careful selection) for K-M
 
 ---
 
-## 💡 Tools Used
+## Tools Used
 
 - Python
 - scikit-learn
