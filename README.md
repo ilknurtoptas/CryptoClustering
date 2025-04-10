@@ -91,8 +91,6 @@ Using fewer features (via dimensionality reduction or careful selection) for K-M
 
 ---
 
-## 📬 Contact
 
-For any questions or insights, feel free to reach out!
 
 
